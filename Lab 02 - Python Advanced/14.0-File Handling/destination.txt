@@ -1,0 +1,5 @@
+Hello World!
+We are working with File Handling using Python.this is a new line.Testing.Append operation taking place!
+First line 
+Second line 
+Third line
